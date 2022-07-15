@@ -56,7 +56,7 @@ function App() {
   const dispatch = useDispatch();
 
   React.useEffect(() => {
-    fetch("/starting-react/pokemon.json")
+    fetch("/react-pokedex/pokemon.json")
       .then((resp) => resp.json())
       .then((payload) =>
         dispatch({

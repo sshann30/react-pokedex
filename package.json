@@ -1,8 +1,8 @@
 {
-  "name": "starting-react",
+  "name": "react-pokedex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jherr.github.io/starting-react",
+  "homepage": "https://sshann30.github.io/react-pokedex",
   "dependencies": {
     "@emotion/core": "^10.0.35",
     "@emotion/styled": "^10.0.27",
